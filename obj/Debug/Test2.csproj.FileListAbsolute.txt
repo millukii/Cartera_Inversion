@@ -1,0 +1,7 @@
+C:\Users\Matias\Documents\Projects C#\Test2\bin\Debug\Test2.exe.config
+C:\Users\Matias\Documents\Projects C#\Test2\bin\Debug\Test2.exe
+C:\Users\Matias\Documents\Projects C#\Test2\bin\Debug\Test2.pdb
+C:\Users\Matias\Documents\Projects C#\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\Matias\Documents\Projects C#\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Documents\Projects C#\Test2\obj\Debug\Test2.exe
+C:\Users\Matias\Documents\Projects C#\Test2\obj\Debug\Test2.pdb
